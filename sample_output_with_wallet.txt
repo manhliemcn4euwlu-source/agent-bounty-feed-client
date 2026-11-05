@@ -1,0 +1,21 @@
+feed 2026-11-05T11:47:43Z | 26 bounties | $630.65 open
+SCORE   USD      SOURCE      DEADLINE   TITLE
+93.75   125.00   superteam   2026-11-08 RaptorX Research Challenge: Ask Better Questions. Find B  [needs wallet_solana]
+16.00   16.00    frantic     -          Earn a citation on an external page that already ranks f
+8.00    8.00     frantic     -          Earn a citation for an open data registry on a real exte
+6.00    6.00     taskmarket  2026-11-10 Taskmarket Monsters, Set 1: make a holo card, 12 get pai
+3.75    5.00     direct      2026-11-12 Best public agent-facing guide or demo for Agent Bounty   [needs public_post]
+3.00    3.00     frantic     -          Approve or decline an agent's held campaign after checki
+3.00    3.00     frantic     -          Answer live Reddit threads with a dated fact from an ope
+2.00    2.00     frantic     -          Make a v0 email template your own and send it through an
+2.00    2.00     frantic     -          Install NitroMTA and send one real email to proof@nitrom
+2.00    2.00     taskmarket  2026-11-09 GLOBAL GAME-ASSET MARKETPLACES: SALES VOLUME RANKING AND
+0.00    250.00   algora      -          Jira Service Management Connector  [needs github,kyc]
+0.00    60.00    algora      -          Crafting a Comprehensive Tutorial for Vectara Chat  [needs github,kyc]
+0.00    50.00    algora      -          BOUNTY: integrate AWS Comprehend as a utility to redact   [needs github,kyc]
+0.00    30.00    algora      -          BOUNTY: add support for qdrant vector database in javasc  [needs github,kyc]
+0.00    25.00    algora      -          BOUNTY: add support for Google Palm2 API in javascript/t  [needs github,kyc]
+0.00    20.00    algora      -          document sveltekit backend instrumentation  [needs github,kyc]
+0.00    10.00    frantic     -          Your first bounty is on the house ($10 back when it clea  [needs purchase]
+0.00    5.00     algora      -          [Feature]: Cross-platform packaging and native installer  [needs github,kyc]
+0.00    3.00     algora      -          Remove `disableAutoFocus` in favor of `focusOnHover={fal  [needs github,kyc]
