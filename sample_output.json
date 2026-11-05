@@ -1,0 +1,193 @@
+{
+ "generated_at": "2026-11-05T11:47:43Z",
+ "count": 13,
+ "rows": [
+  {
+   "score": 70.31,
+   "missing": [
+    "agent_account",
+    "wallet_solana"
+   ],
+   "hard": [],
+   "id": "superteam:raptorx-research-challenge-ask-better-questions-find-better-alpha",
+   "title": "RaptorX Research Challenge: Ask Better Questions. Find Better Alpha.",
+   "usd": 125.0,
+   "deadline": "2026-11-08T02:59:59.000Z",
+   "url": "https://superteam.fun/earn/listing/raptorx-research-challenge-ask-better-questions-find-better-alpha"
+  },
+  {
+   "score": 9.0,
+   "missing": [
+    "agent_account",
+    "wallet_evm"
+   ],
+   "hard": [],
+   "id": "frantic:129",
+   "title": "Earn a citation on an external page that already ranks for a relevant query",
+   "usd": 16.0,
+   "deadline": null,
+   "url": "https://gofrantic.com/bounties/129"
+  },
+  {
+   "score": 4.5,
+   "missing": [
+    "agent_account",
+    "wallet_evm"
+   ],
+   "hard": [],
+   "id": "frantic:128",
+   "title": "Earn a citation for an open data registry on a real external site",
+   "usd": 8.0,
+   "deadline": null,
+   "url": "https://gofrantic.com/bounties/128"
+  },
+  {
+   "score": 3.38,
+   "missing": [
+    "agent_account",
+    "wallet_evm"
+   ],
+   "hard": [],
+   "id": "taskmarket:TSK-C7E0G86R",
+   "title": "Taskmarket Monsters, Set 1: make a holo card, 12 get paid",
+   "usd": 6.0,
+   "deadline": "2026-11-10T03:07:51.154Z",
+   "url": "https://taskmarket.dev/tasks/TSK-C7E0G86R"
+  },
+  {
+   "score": 2.11,
+   "missing": [
+    "agent_account",
+    "public_post",
+    "wallet_evm"
+   ],
+   "hard": [],
+   "id": "direct:abf-growth-guide-5usdc",
+   "title": "Best public agent-facing guide or demo for Agent Bounty Feed (MCP / earn-now / x402 client), 5 USDC single winner",
+   "usd": 5.0,
+   "deadline": "2026-11-12T12:05:00Z",
+   "url": "https://github.com/dailydollar-bot/agent-bounty-feed/issues/3"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:onyx-dot-app/onyx#2281",
+   "title": "Jira Service Management Connector",
+   "usd": 250.0,
+   "deadline": null,
+   "url": "https://github.com/onyx-dot-app/onyx/issues/2281"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:lablab-ai/community-content#462",
+   "title": "Crafting a Comprehensive Tutorial for Vectara Chat",
+   "usd": 60.0,
+   "deadline": null,
+   "url": "https://github.com/lablab-ai/community-content/issues/462"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:arakoodev/EdgeChains#290",
+   "title": "BOUNTY: integrate AWS Comprehend as a utility to redact data",
+   "usd": 50.0,
+   "deadline": null,
+   "url": "https://github.com/arakoodev/EdgeChains/issues/290"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:arakoodev/EdgeChains#273",
+   "title": "BOUNTY: add support for qdrant vector database in javascript sdk",
+   "usd": 30.0,
+   "deadline": null,
+   "url": "https://github.com/arakoodev/EdgeChains/issues/273"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:arakoodev/EdgeChains#279",
+   "title": "BOUNTY: add support for Google Palm2 API in javascript/typescript",
+   "usd": 25.0,
+   "deadline": null,
+   "url": "https://github.com/arakoodev/EdgeChains/issues/279"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:highlight/highlight#8032",
+   "title": "document sveltekit backend instrumentation",
+   "usd": 20.0,
+   "deadline": null,
+   "url": "https://github.com/highlight/highlight/issues/8032"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "agent_account",
+    "purchase",
+    "wallet_evm"
+   ],
+   "hard": [
+    "purchase"
+   ],
+   "id": "frantic:97",
+   "title": "Your first bounty is on the house ($10 back when it clears, first five)",
+   "usd": 10.0,
+   "deadline": null,
+   "url": "https://gofrantic.com/bounties/p-ce0199eecf"
+  },
+  {
+   "score": 0.0,
+   "missing": [
+    "github",
+    "kyc"
+   ],
+   "hard": [
+    "kyc"
+   ],
+   "id": "algora:PG-AGI/toingg-jarvis#13",
+   "title": "[Feature]: Cross-platform packaging and native installers for Windows, Linux, and macOS",
+   "usd": 5.0,
+   "deadline": null,
+   "url": "https://github.com/PG-AGI/toingg-jarvis/issues/13"
+  }
+ ]
+}
