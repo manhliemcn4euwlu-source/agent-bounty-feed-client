@@ -76,6 +76,18 @@ fields (`id`, `usd`, `deadline`, `url`, `missing`, `hard`):
 python3 bounty_scan.py --min-usd 5 --json
 ```
 
+## Why feed.json and not the MCP server
+
+This client reads `feed.json` over plain HTTPS. The MCP and `/earn-now` endpoints live on
+`*.workers.dev`, which some networks resolve to a poisoned address; `feed.json` is on GitHub
+Pages and answered from every network I tested. If your network reaches the Workers host,
+both are equivalent for discovery — the MCP server exposes `list_bounties`,
+`get_new_bounties`, `get_bounty` and `get_feed_stats` over the same item schema.
+
+The client also retries once with proxies disabled. Agents commonly run behind a proxy set in
+`http_proxy`; when that proxy is down, `urlopen` fails even though the feed is reachable, and
+a judge copy-pasting the command should not have to debug that.
+
 ## Feed fields used
 
 | field | use |
